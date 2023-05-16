@@ -1,0 +1,38 @@
+<map>
+  <entry>
+    <string>editCommand</string>
+    <string>org.robochina.airobot.tank.participant.command.SingleEditCommand</string>
+  </entry>
+  <entry>
+    <string>participantClass</string>
+    <string>org.robochina.airobot.tank.participant.net.NetParticipant</string>
+  </entry>
+  <entry>
+    <string>appVersion</string>
+    <string>1.0</string>
+  </entry>
+  <entry>
+    <string>description</string>
+    <string></string>
+  </entry>
+  <entry>
+    <string>name</string>
+    <string>PositiveCircle8</string>
+  </entry>
+  <entry>
+    <string>startupCommand</string>
+    <string>&quot;${WORKING_DIR}\PositiveCircle8.exe&quot; ${SERVER_IP} ${SERVER_PORT}</string>
+  </entry>
+  <entry>
+    <string>author</string>
+    <string></string>
+  </entry>
+  <entry>
+    <string>package</string>
+    <string>positivecircle8</string>
+  </entry>
+  <entry>
+    <string>version</string>
+    <string></string>
+  </entry>
+</map>
